@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import requests
 
-bot = telebot.TeleBot('1893127985:AAHhN652ViVEGLGls9ANQ3P2S1foOBhOZb4')
+bot = telebot.TeleBot('TOKEN')
 
 
 def get_search(text, page):
